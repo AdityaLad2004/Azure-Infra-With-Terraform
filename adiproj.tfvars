@@ -1,0 +1,5 @@
+location             = "centralindia"
+resource_group_name  = "adi-terra-proj"
+storage_account_name = "adistoacc"
+content              = "<h1>Hello world</h1>"
+index_document       = "index.html"
