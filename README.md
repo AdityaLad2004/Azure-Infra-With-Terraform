@@ -1,5 +1,8 @@
 # Azure Storage Account Static Website with Terraform
-
+- Description: Hosted a static html page in azure storage account configured using terraform
+- Tools & Technologies: ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+  
 This Terraform configuration automates the setup of a static website hosted on Azure Storage Account. It creates an Azure Resource Group, a Storage Account, and a blob within the Storage Account to serve as the static website.
 
 
